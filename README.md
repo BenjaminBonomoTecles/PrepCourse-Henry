@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba Modulo 2 de Henry
+Esto en una practita del prepcourse de henry en el modulo numero 2
